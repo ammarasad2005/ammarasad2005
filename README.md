@@ -1,15 +1,15 @@
 <!-- ============================================================
      Muhammad Ammar Asad — GitHub Profile README
      Username: ammarasad2005
-     Palette: Emerald Forest · Intense Blue · Warm Brown
+     Palette: Emerald · Blue · Brown
      ============================================================ -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:1E3A5F,100:5C4033&height=260&section=header&text=Ammar%20Asad&desc=Builder%20%7C%20Problem%20Solver%20%7C%20Shipper&fontSize=80&animation=fadeIn&fontColor=ECFDF5&descSize=18&fontAlignY=36&descAlignY=56" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:1E3A5F,100:5C4033&height=260&section=header&text=Muhammad%20Ammar%20Asad&desc=Full-Stack%20Developer%20%7C%20CS%20%40%20FAST-NUCES&fontSize=62&animation=fadeIn&fontColor=ECFDF5&descSize=17&fontAlignY=36&descAlignY=56" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=600&color=10B981&center=true&width=860&lines=Building+tools+that+solve+real+campus+problems;Algorithms+%E2%86%92+Visuals+%7C+Ideas+%E2%86%92+Extensions+%7C+Logic+%E2%86%92+Games;From+search+algorithms+to+x86+Assembly;Ship.+Learn.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=600&color=10B981&center=true&width=860&lines=1+campus+platform+%C2%B7+4+batches+%C2%B7+11+departments+%C2%B7+10+features;200%2B+Pakistani+dramas+%C2%B7+live+EPG+%C2%B7+dual+database;20+min+of+clicking+%E2%86%92+1-click+ZIP+download;5+cooperative+AI+agents+%C2%B7+3+languages+%C2%B7+dynamic+pricing" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -29,48 +29,49 @@
 
 ---
 
-<!-- ====== IDENTITY: CSS-style personal brand ====== -->
-```css
-.ammar-asad {
-  position: Islamabad, Pakistan;
-  background: FAST-NUCES CS '27;
-  display: full-stack developer;
-  color: emerald, blue, brown;
-  content: "I build things that didn't exist before";
-}
-```
+### 👋 About Me
+
+I'm a Computer Science student at **FAST-NUCES Islamabad** (Class of 2027) building full-stack web platforms, Chrome extensions, and agentic AI systems. My work is grounded in real problems with measurable outcomes:
+
+- A campus platform ([Exam-Table](https://github.com/ammarasad2005/Exam-Table)) serving 4 batches across 11 departments and 3 schools with 10+ utilities — from a backtracking timetable optimizer with comfort scoring to an AI-powered lost & found system
+- A drama streaming platform ([Drama-Ghar](https://github.com/ammarasad2005/Drama-Ghar)) cataloguing 200+ Pakistani dramas across 7 channels with live EPG, watch analytics, and a dual MongoDB + Supabase architecture
+- Two Chrome extensions ([gcr-resources-fetch](https://github.com/ammarasad2005/gcr-resources-fetch), [gcr-contacts](https://github.com/ammarasad2005/gcr-contacts)) that reduce 20-minute Google Classroom workflows to one-click actions using hybrid DOM + API detection and a 5-step email resolution pipeline
+- A 5-agent marketplace orchestrator ([hamara-rozgar](https://github.com/ammarasad2005/hamara-rozgar)) with multilingual NLP (English, Urdu, Roman Urdu), proximity-based provider ranking, and dynamic pricing — built for the Google Antigravity Hackathon
+
+📍 Based in **Islamabad, Pakistan**
 
 ---
 
-<!-- ====== DOMAINS: Four pillars of expertise ====== -->
+### 🎯 What I Build
+
 <table width="100%">
 <tr>
 <td width="25%" align="center" valign="top">
 
-🌐 **Web Apps**
-Next.js · TypeScript · React
-Full-stack platforms that scale
+🌐 **Campus Platforms**
+Next.js · TypeScript · Supabase
+Full-stack web apps serving 4 batches and 11 departments with auth, APIs, and export pipelines
 
 </td>
 <td width="25%" align="center" valign="top">
 
-🧮 **Algorithms**
-Visualizers · AI Search
-Making complexity visual
+🎬 **Streaming & Media**
+Next.js · MongoDB + Supabase
+Cataloguing 200+ titles with live EPG, YouTube streaming, watch analytics, and RBAC admin
 
 </td>
 <td width="25%" align="center" valign="top">
 
-🧩 **Extensions**
-Chrome · Campus Tools
-Automating student workflows
+🧩 **Chrome Extensions**
+Manifest V3 · Classroom API
+Automating Google Classroom workflows — hybrid DOM + API detection, OAuth 2.0, one-click actions
 
 </td>
 <td width="25%" align="center" valign="top">
 
-🎮 **Game Dev**
-C++ · SFML · x86 ASM
-Performance at the metal
+🤖 **Agentic AI Systems**
+React · Multi-Agent Pipeline · NLP
+5 cooperative micro-agents with multilingual parsing, proximity ranking, and dynamic pricing
 
 </td>
 </tr>
@@ -78,29 +79,6 @@ Performance at the metal
 
 ---
 
-<!-- ====== PROFESSIONAL SUMMARY: Code-block approach ====== -->
-<details open>
-<summary><b>🌳 Who I Am</b></summary>
-
-```ts
-const ammar = {
-  location: "Islamabad, Pakistan",
-  education: "BS Computer Science @ FAST-NUCES (2023-2027)",
-  currently: [
-    "Building student utility tools for FAST-NUCES",
-    "Visualizing AI search algorithms interactively",
-    "Pushing pixels with C++ game engines",
-    "Automating campus workflows via Chrome extensions",
-  ],
-  mission: "Ship something valuable, learn something deep, build a better tomorrow.",
-};
-```
-
-</details>
-
----
-
-<!-- ====== TECH STACK: Categorized badges ====== -->
 <details open>
 <summary><b>🛠️ Tech Stack</b></summary>
 
@@ -110,8 +88,7 @@ const ammar = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/x86_ASM-6E4C13?style=for-the-badge&logo=asm&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/x86_ASM-6E4C13?style=for-the-badge&logoColor=white" />
 </p>
 
 #### Frontend
@@ -124,9 +101,9 @@ const ammar = {
 #### Backend & Database
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A247?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 
 #### DevOps & Tools
@@ -141,70 +118,27 @@ const ammar = {
 
 ---
 
-<!-- ====== FEATURED PROJECTS: Table format ====== -->
 <details open>
 <summary><b>📌 Featured Projects</b></summary>
 
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Domain</th>
-      <th>Stack</th>
-      <th>What it does</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>Algo-Visualizer</strong></td>
-      <td>🧮 Algorithms</td>
-      <td>TypeScript · React</td>
-      <td>Interactive website to visualize AI search algorithms — making pathfinding and tree traversal intuitive</td>
-    </tr>
-    <tr>
-      <td><strong>Exam-Table</strong></td>
-      <td>🧩 Student Tool</td>
-      <td>TypeScript · Next.js</td>
-      <td>Automates student timetable, classroom & exam schedule extraction from cluster sheets</td>
-    </tr>
-    <tr>
-      <td><strong>gcr-contacts</strong></td>
-      <td>🧩 Extension</td>
-      <td>JavaScript · Chrome API</td>
-      <td>Instantly find instructor, TA & Lab Demo emails from Google Classroom — built for FAST students</td>
-    </tr>
-    <tr>
-      <td><strong>gcr-resources-fetch</strong></td>
-      <td>🧩 Extension</td>
-      <td>JavaScript · Chrome API</td>
-      <td>One-click resource downloader for Google Classroom courses</td>
-    </tr>
-    <tr>
-      <td><strong>GalaxyWarriors</strong></td>
-      <td>🎮 Game Dev</td>
-      <td>C++ · SFML</td>
-      <td>Nintendo-style galaxy arcade game with real-time SFML graphics rendering</td>
-    </tr>
-    <tr>
-      <td><strong>SpaceShooter</strong></td>
-      <td>🎮 Low-Level</td>
-      <td>x86 MASM · Irvine32</td>
-      <td>Space shooter game written entirely in x86 Assembly — no frameworks, pure metal</td>
-    </tr>
-  </tbody>
-</table>
+| Project | What it does | Stack |
+|---|---|---|
+| **[Exam-Table](https://github.com/ammarasad2005/Exam-Table)** | All-in-one campus platform for FAST NUCES Islamabad — 10+ utilities: timetable viewer with conflict detection, exam schedule finder, backtracking timetable optimizer with comfort scoring (0–100%), free rooms finder (vacancy status), 9-department faculty directory, AI-powered lost & found (GPT-4o-mini smart search), campus events calendar with 60s auto-refresh, semester schedule, and 4 export formats (CSV/XLSX/ICS/PNG). Covers batches 2022–2025 across 11 departments and 3 schools. | Next.js 14 · TypeScript · Supabase · Tailwind CSS · Framer Motion |
+| **[Drama-Ghar](https://github.com/ammarasad2005/Drama-Ghar)** | Personalized Pakistani drama tracking and streaming platform — 200+ drama catalog across ARY Digital, HUM TV, Geo Entertainment, and 4 more channels. Live EPG with auto-scroll to current time, in-app YouTube streaming, watch history with time analytics (today/weekly/lifetime), watchlist, reminders, admin dashboard with RBAC, and password reset via Nodemailer. Dual-database: MongoDB for users, Supabase for media data. | Next.js 15 · React 19 · TypeScript 5.9 · MongoDB + Supabase · JWT Auth · Framer Motion |
+| **[gcr-resources-fetch](https://github.com/ammarasad2005/gcr-resources-fetch)** | Chrome Extension (MV3) that bulk-downloads all resources from a Google Classroom course as a single ZIP — replaces 20–25 minutes of manual clicking with one click. Hybrid detection: DOM scraping + 4 Google Classroom API endpoints (Coursework, Materials, Announcements, Submissions). Smart file conversion (Docs→DOCX/PDF, Sheets→XLSX, Slides→PPTX). Generates an interactive External Resources Dashboard for YouTube links, Forms, and Drive folders. OAuth 2.0 with serverless Vercel backend. | Chrome MV3 · JavaScript · OAuth 2.0 · Vercel Serverless · JSZip |
+| **[hamara-rozgar](https://github.com/ammarasad2005/hamara-rozgar)** | AI-driven marketplace orchestrator for Pakistan's informal service economy, built for the Google Antigravity Hackathon. 5 cooperative micro-agents: IntentAgent (multilingual NLP — English, Urdu, Roman Urdu), DiscoveryAgent (6-factor utility function: distance 25%, rating 20%, reliability 20%, price 15%, cancellation 10%, sector 10%), PricingAgent (dynamic pricing with travel, urgency, surge, and loyalty adjustments), BookingAgent (Supabase sync + localStorage fallback), DisputeAgent (auto-reschedule + 150 PKR voucher). Capacitor-wrapped Android APK. | React 19 · Vite 8 · Groq/GitHub Models · Supabase · OSM Nominatim · Capacitor |
+| **[gcr-contacts](https://github.com/ammarasad2005/gcr-contacts)** | Web app that resolves instructor, TA, and Lab Demo emails from Google Classroom courses through a cascading 5-step pipeline: TA Sheet Lookup → GCR Email → Roll Number Extraction (supports i220812 and 22i-2079 formats with campus mapping) → Faculty JSON Fuzzy Match → Google People API. Domain-locked to @isb.nu.edu.pk. Auto-classifies roles (instructor/TA/LD), filters by current semester (±7 days), and provides bulk email copy. | Next.js 16 · React 19 · JavaScript · Google OAuth 2.0 · Classroom API + People API |
 
 </details>
 
 ---
 
-<!-- ====== GITHUB STATS ====== -->
 <details open>
 <summary><b>📊 GitHub Stats</b></summary>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarasad2005&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=2563EB&text_color=e6edf3&ring_color=059669" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarasad2005&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=e6edf3&langs_count=8" alt="Top Languages" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ammarasad2005&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=2563EB&text_color=e6edf3&ring_color=059669" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ammarasad2005&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=e6edf3&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
@@ -219,80 +153,32 @@ const ammar = {
 
 ---
 
-<!-- ====== ACHIEVEMENTS ====== -->
-<details open>
-<summary><b>🏆 Achievements</b></summary>
+<details>
+<summary><b>🏆 Achievements & Participations</b></summary>
 
-| Badge | What |
+| Event | Details |
 |---|---|
-| 🏆 **Pair Extraordinaire** | Paired on PRs with collaborators |
-| 🦈 **Pull Shark** | Active pull request contributor |
-| 🚀 **YOLO** | Merged a PR without review |
+| 🏆 **Pair Extraordinaire** | Co-authored PRs across repositories |
+| 🦈 **Pull Shark** | Active pull request contributor across repos |
+| 🚀 **YOLO** | Shipped a PR straight to main |
+| 🤖 **Google Antigravity Hackathon** | Islamabad regional round — Challenge 2: AI Service Orchestrator for Informal Economy (2,668+ registrations nationwide, PKR 2.5M prize pool, organized by Google for Developers + MoITT Pakistan) |
+| 🧠 **Promptopia 2.0** | Prompt Engineering Competition by GDGoC FAST Islamabad (Nov 2025) |
+| 📐 **FPSC Problem Solving Competition** | FAST NUCES Islamabad (Nov 2025) |
 
 </details>
 
 ---
 
-<!-- ====== EASTER EGG: Assembly snippet ====== -->
-<details>
-<summary>🖥️ <i>Think you can read Assembly?</i></summary>
-
-```asm
-; hello_world.asm — because real devs speak in hex
-section .data
-    msg db "Hello from Ammar's profile!", 0Ah
-    len equ $ - msg
-
-section .text
-    global _start
-
-_start:
-    mov  rax, 1          ; sys_write
-    mov  rdi, 1          ; stdout
-    mov  rsi, msg        ; message
-    mov  rdx, len        ; length
-    syscall
-
-    mov  rax, 60         ; sys_exit
-    xor  rdi, rdi        ; exit code 0
-    syscall
-```
-
-> If you understood this — we should definitely collaborate 👀
-
-</details>
-
----
-
-<!-- ====== CURRENTLY UP TO: YAML format ====== -->
-<details>
-<summary>📋 <i>What I'm currently up to...</i></summary>
-
-```yaml
-currently:
-  learning: "Advanced algorithms & distributed systems"
-  building: "Campus utility tools for FAST-NUCES"
-  exploring: "WebAssembly & browser-native performance"
-  reading: "Clean Code by Robert C. Martin"
-  fun_fact: "I wrote a space shooter in x86 Assembly — no frameworks, no regrets"
-```
-
-</details>
-
----
-
-<!-- ====== OPEN TO ====== -->
 ### 🤝 Open To
 
-- Full-stack web development collaborations & freelance
-- Open-source contributions (especially developer tools)
-- Algorithm visualization & AI projects
-- Game development in C++ / Assembly
-- Hackathons, code jams, and knowledge-sharing
+- Full-stack freelance & contract work (Next.js, React, Node, Supabase)
+- Open-source contributions to developer tools and education platforms
+- Collaborations on agentic AI or campus utility projects
+- Hackathon teams — especially multi-agent or NLP challenges
 
 ---
 
-<p align="center"><i>"Ship fast. Learn faster. Keep building."</i></p>
+<p align="center"><i>"Solve the real problem. Ship the working solution."</i></p>
 
 <p align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C4033,50:1E3A5F,100:064E3B&height=140&section=footer&text=&fontSize=0&fontColor=ECFDF5&fontAlignY=70" />
