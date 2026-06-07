@@ -35,7 +35,8 @@ I'm a Computer Science student at **FAST-NUCES Islamabad** (Class of 2027) build
 
 - A campus platform ([Exam-Table](https://github.com/ammarasad2005/Exam-Table)) serving 4 batches across 11 departments and 3 schools with 10+ utilities — from a backtracking timetable optimizer with comfort scoring to an AI-powered lost & found system
 - A drama streaming platform ([Drama-Ghar](https://github.com/ammarasad2005/Drama-Ghar)) cataloguing 200+ Pakistani dramas across 7 channels with live EPG, watch analytics, and a dual MongoDB + Supabase architecture
-- Two Chrome extensions ([gcr-resources-fetch](https://github.com/ammarasad2005/gcr-resources-fetch), [gcr-contacts](https://github.com/ammarasad2005/gcr-contacts)) that reduce 20-minute Google Classroom workflows to one-click actions using hybrid DOM + API detection and a 5-step email resolution pipeline
+- A Chrome extension ([gcr-resources-fetch](https://github.com/ammarasad2005/gcr-resources-fetch)) that replaces 20–25 minutes of manual downloading from Google Classroom with a one-click ZIP, using hybrid DOM + API detection
+- A web app ([gcr-contacts](https://github.com/ammarasad2005/gcr-contacts)) that resolves instructor, TA, and Lab Demo emails from Google Classroom through a 5-step pipeline — domain-locked to @isb.nu.edu.pk
 - A 5-agent marketplace orchestrator ([hamara-rozgar](https://github.com/ammarasad2005/hamara-rozgar)) with multilingual NLP (English, Urdu, Roman Urdu), proximity-based provider ranking, and dynamic pricing — built for the Google Antigravity Hackathon
 
 📍 Based in **Islamabad, Pakistan**
@@ -62,9 +63,9 @@ Cataloguing 200+ titles with live EPG, YouTube streaming, watch analytics, and R
 </td>
 <td width="25%" align="center" valign="top">
 
-🧩 **Chrome Extensions**
-Manifest V3 · Classroom API
-Automating Google Classroom workflows — hybrid DOM + API detection, OAuth 2.0, one-click actions
+🧩 **Chrome & Web Tools**
+Manifest V3 · Next.js · Classroom API
+Automating Google Classroom workflows — bulk ZIP downloads and 5-step email resolution
 
 </td>
 <td width="25%" align="center" valign="top">
