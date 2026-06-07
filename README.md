@@ -1,166 +1,299 @@
 <!-- ============================================================
      Muhammad Ammar Asad — GitHub Profile README
      Username: ammarasad2005
+     Palette: Emerald Forest · Intense Blue · Warm Brown
      ============================================================ -->
 
-<!-- ====== HERO SECTION ====== -->
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=7EE787&center=false&vCenter=true&width=420&lines=Hi%2C+I'm+Ammar+%F0%9F%91%8B" alt="Typing SVG" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&duration=4000&pause=1500&color=A855F7&center=false&vCenter=true&width=420&lines=I+build+things+that;didn't+exist+before." alt="Typing SVG" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/%F0%9F%8E%93_CS_Student-FAST_NUCES-0E75B6?style=for-the-badge" alt="CS Student" />
-<img src="https://img.shields.io/badge/%F0%9F%9A%80_Full_Stack-TypeScript-3178C6?style=for-the-badge" alt="Full Stack" />
-<img src="https://img.shields.io/badge/%F0%9F%87%B5%F0%9F%87%B0_Pakistan-Islamabad-15803D?style=for-the-badge" alt="Pakistan" />
-
-<br/>
-
-<a href="https://github.com/ammarasad2005?tab=followers">
-  <img src="https://img.shields.io/badge/Followers-3-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Followers" />
-</a>
-<a href="https://github.com/ammarasad2005?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-3-FFD43B?style=for-the-badge&logo=githubsponsors&logoColor=black" alt="Stars" />
-</a>
-<a href="https://github.com/ammarasad2005">
-  <img src="https://img.shields.io/badge/Repos-28-58A6FF?style=for-the-badge&logo=bookstack&logoColor=white" alt="Repos" />
-</a>
-<img src="https://komarev.com/ghpvc/?username=ammarasad2005&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile Views" />
-
-</td>
-<td width="45%" valign="top" align="center">
-
-<img src="https://raw.githubusercontent.com/ammarasad2005/ammarasad2005/main/terminal-whoami.svg" alt="Terminal whoami" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ====== MISSION STATEMENT — uses blockquote for reliable GitHub rendering ====== -->
-> ⚡ **My mission is simple:** `ship` something valuable, `learn` something deep, and `build` a better tomorrow.
-
-<br/>
-
-<!-- ====== ABOUT ME & WHAT I BUILD ====== -->
-<table width="100%">
-<tr>
-<td width="48%" valign="top">
-
-### 👤 About Me
-
-- 🎓 BS Computer Science @ FAST-NUCES Islamabad ('23–'27)
-- 💻 I love building full-stack web apps & AI tools
-- 🤖 Fascinated by algorithms, automation & intelligent systems
-- 🧩 I build Chrome extensions that solve real campus problems
-- ⚙️ Game developer in C++ / SFML & x86 Assembly
-- ☕ Fueled by curiosity and caffeine
-
-</td>
-<td width="4%"></td>
-<td width="48%" valign="top">
-
-### 🚀 What I Build
-
-🌐 **Full-Stack Web Apps**
-Scalable, fast, and user-focused applications with Next.js & TypeScript
-
-🧮 **Algorithm Visualizers**
-Interactive tools to understand AI search algorithms visually
-
-🔧 **Student Utility Tools**
-Apps that solve real campus problems — timetables, contacts, resources
-
-🎮 **Low-Level Games**
-Performance-focused games in C++/SFML & x86 MASM Assembly
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ====== TECH STACK ====== -->
-### 🛠️ Tech Stack
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,express,mongodb,postgres,cpp,python,tailwind,git,github,linux,docker&perline=8" alt="Tech Stack" />
-  </a>
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:064E3B,50:1E3A5F,100:5C4033&height=260&section=header&text=Ammar%20Asad&desc=Builder%20%7C%20Problem%20Solver%20%7C%20Shipper&fontSize=80&animation=fadeIn&fontColor=ECFDF5&descSize=18&fontAlignY=36&descAlignY=56" />
 </p>
 
-<br/>
-
-<!-- ====== GITHUB STATS ====== -->
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ammarasad2005&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=79c0ff&text_color=e6edf3&ring_color=58a6ff" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarasad2005&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&text_color=e6edf3&langs_count=8" alt="Top Languages" height="170" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2800&pause=600&color=10B981&center=true&width=860&lines=Building+tools+that+solve+real+campus+problems;Algorithms+%E2%86%92+Visuals+%7C+Ideas+%E2%86%92+Extensions+%7C+Logic+%E2%86%92+Games;From+search+algorithms+to+x86+Assembly;Ship.+Learn.+Repeat." alt="Typing SVG" />
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ammarasad2005&theme=github-dark-blue&hide_border=true&background=0D1117&ring=7EE787&fire=79C0FF&currStreakLabel=7EE787&sideLabels=e6edf3&dates=8B949E" alt="GitHub Streak" height="170" />
-</p>
-
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammarasad2005&theme=github-dark&hide_border=true&bg_color=0d1117&color=7ee787&line=79c0ff&point=58a6ff&area=true" alt="Activity Graph" width="95%" />
-</p>
-
-<br/>
-
-<!-- ====== PINNED REPOSITORIES — 4 cards for clean 2×2 grid ====== -->
-### 📌 Pinned Repositories
-
-<p>
-  <a href="https://github.com/ammarasad2005/Algo-Visualizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammarasad2005&repo=Algo-Visualizer&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=79c0ff&text_color=e6edf3" alt="Algo-Visualizer" />
-  </a>
-  <a href="https://github.com/ammarasad2005/Exam-Table">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammarasad2005&repo=Exam-Table&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=79c0ff&text_color=e6edf3" alt="Exam-Table" />
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/ammarasad2005/gcr-contacts">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammarasad2005&repo=gcr-contacts&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=79c0ff&text_color=e6edf3" alt="gcr-contacts" />
-  </a>
-  <a href="https://github.com/ammarasad2005/gcr-resources-fetch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammarasad2005&repo=gcr-resources-fetch&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=7ee787&icon_color=79c0ff&text_color=e6edf3" alt="gcr-resources-fetch" />
-  </a>
-</p>
-
-<br/>
-
-<!-- ====== LET'S CONNECT ====== -->
-### 🌐 Let's Connect
-
-<p align="left">
+<p align="center">
   <a href="https://github.com/ammarasad2005">
-    <img src="https://img.shields.io/badge/GitHub-ammarasad2005-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/ammar-asad-563047289">
-    <img src="https://img.shields.io/badge/LinkedIn-Ammar_Asad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:ammarasad2005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ammarasad2005?tab=followers">
+    <img src="https://img.shields.io/badge/Follow-3-10B981?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
-Thanks for stopping by! ⭐
+---
 
-<br/>
+<!-- ====== IDENTITY: CSS-style personal brand ====== -->
+```css
+.ammar-asad {
+  position: Islamabad, Pakistan;
+  background: FAST-NUCES CS '27;
+  display: full-stack developer;
+  color: emerald, blue, brown;
+  content: "I build things that didn't exist before";
+}
+```
 
-<!-- ====== BOTTOM TERMINAL QUOTE ====== -->
+---
+
+<!-- ====== DOMAINS: Four pillars of expertise ====== -->
+<table width="100%">
+<tr>
+<td width="25%" align="center" valign="top">
+
+🌐 **Web Apps**
+Next.js · TypeScript · React
+Full-stack platforms that scale
+
+</td>
+<td width="25%" align="center" valign="top">
+
+🧮 **Algorithms**
+Visualizers · AI Search
+Making complexity visual
+
+</td>
+<td width="25%" align="center" valign="top">
+
+🧩 **Extensions**
+Chrome · Campus Tools
+Automating student workflows
+
+</td>
+<td width="25%" align="center" valign="top">
+
+🎮 **Game Dev**
+C++ · SFML · x86 ASM
+Performance at the metal
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ====== PROFESSIONAL SUMMARY: Code-block approach ====== -->
+<details open>
+<summary><b>🌳 Who I Am</b></summary>
+
+```ts
+const ammar = {
+  location: "Islamabad, Pakistan",
+  education: "BS Computer Science @ FAST-NUCES (2023-2027)",
+  currently: [
+    "Building student utility tools for FAST-NUCES",
+    "Visualizing AI search algorithms interactively",
+    "Pushing pixels with C++ game engines",
+    "Automating campus workflows via Chrome extensions",
+  ],
+  mission: "Ship something valuable, learn something deep, build a better tomorrow.",
+};
+```
+
+</details>
+
+---
+
+<!-- ====== TECH STACK: Categorized badges ====== -->
+<details open>
+<summary><b>🛠️ Tech Stack</b></summary>
+
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/x86_ASM-6E4C13?style=for-the-badge&logo=asm&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+</p>
+
+#### Frontend
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
+
+#### Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A247?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+
+#### DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</p>
+
+</details>
+
+---
+
+<!-- ====== FEATURED PROJECTS: Table format ====== -->
+<details open>
+<summary><b>📌 Featured Projects</b></summary>
+
+<table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Domain</th>
+      <th>Stack</th>
+      <th>What it does</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Algo-Visualizer</strong></td>
+      <td>🧮 Algorithms</td>
+      <td>TypeScript · React</td>
+      <td>Interactive website to visualize AI search algorithms — making pathfinding and tree traversal intuitive</td>
+    </tr>
+    <tr>
+      <td><strong>Exam-Table</strong></td>
+      <td>🧩 Student Tool</td>
+      <td>TypeScript · Next.js</td>
+      <td>Automates student timetable, classroom & exam schedule extraction from cluster sheets</td>
+    </tr>
+    <tr>
+      <td><strong>gcr-contacts</strong></td>
+      <td>🧩 Extension</td>
+      <td>JavaScript · Chrome API</td>
+      <td>Instantly find instructor, TA & Lab Demo emails from Google Classroom — built for FAST students</td>
+    </tr>
+    <tr>
+      <td><strong>gcr-resources-fetch</strong></td>
+      <td>🧩 Extension</td>
+      <td>JavaScript · Chrome API</td>
+      <td>One-click resource downloader for Google Classroom courses</td>
+    </tr>
+    <tr>
+      <td><strong>GalaxyWarriors</strong></td>
+      <td>🎮 Game Dev</td>
+      <td>C++ · SFML</td>
+      <td>Nintendo-style galaxy arcade game with real-time SFML graphics rendering</td>
+    </tr>
+    <tr>
+      <td><strong>SpaceShooter</strong></td>
+      <td>🎮 Low-Level</td>
+      <td>x86 MASM · Irvine32</td>
+      <td>Space shooter game written entirely in x86 Assembly — no frameworks, pure metal</td>
+    </tr>
+  </tbody>
+</table>
+
+</details>
+
+---
+
+<!-- ====== GITHUB STATS ====== -->
+<details open>
+<summary><b>📊 GitHub Stats</b></summary>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ammarasad2005/ammarasad2005/main/terminal-quote.svg" alt="Terminal Quote" width="480" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ammarasad2005&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=2563EB&text_color=e6edf3&ring_color=059669" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammarasad2005&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=e6edf3&langs_count=8" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ammarasad2005&style=flat-square&color=58A6FF&label=Visitors" alt="Visitor Count" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ammarasad2005&theme=github-dark-blue&hide_border=true&background=0D1117&ring=10B981&fire=2563EB&currStreakLabel=10B981&sideLabels=e6edf3&dates=8B949E" alt="GitHub Streak" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammarasad2005&theme=github-dark&hide_border=true&bg_color=0d1117&color=10B981&line=2563EB&point=059669&area=true" alt="Activity Graph" width="95%" />
+</p>
+
+</details>
+
+---
+
+<!-- ====== ACHIEVEMENTS ====== -->
+<details open>
+<summary><b>🏆 Achievements</b></summary>
+
+| Badge | What |
+|---|---|
+| 🏆 **Pair Extraordinaire** | Paired on PRs with collaborators |
+| 🦈 **Pull Shark** | Active pull request contributor |
+| 🚀 **YOLO** | Merged a PR without review |
+
+</details>
+
+---
+
+<!-- ====== EASTER EGG: Assembly snippet ====== -->
+<details>
+<summary>🖥️ <i>Think you can read Assembly?</i></summary>
+
+```asm
+; hello_world.asm — because real devs speak in hex
+section .data
+    msg db "Hello from Ammar's profile!", 0Ah
+    len equ $ - msg
+
+section .text
+    global _start
+
+_start:
+    mov  rax, 1          ; sys_write
+    mov  rdi, 1          ; stdout
+    mov  rsi, msg        ; message
+    mov  rdx, len        ; length
+    syscall
+
+    mov  rax, 60         ; sys_exit
+    xor  rdi, rdi        ; exit code 0
+    syscall
+```
+
+> If you understood this — we should definitely collaborate 👀
+
+</details>
+
+---
+
+<!-- ====== CURRENTLY UP TO: YAML format ====== -->
+<details>
+<summary>📋 <i>What I'm currently up to...</i></summary>
+
+```yaml
+currently:
+  learning: "Advanced algorithms & distributed systems"
+  building: "Campus utility tools for FAST-NUCES"
+  exploring: "WebAssembly & browser-native performance"
+  reading: "Clean Code by Robert C. Martin"
+  fun_fact: "I wrote a space shooter in x86 Assembly — no frameworks, no regrets"
+```
+
+</details>
+
+---
+
+<!-- ====== OPEN TO ====== -->
+### 🤝 Open To
+
+- Full-stack web development collaborations & freelance
+- Open-source contributions (especially developer tools)
+- Algorithm visualization & AI projects
+- Game development in C++ / Assembly
+- Hackathons, code jams, and knowledge-sharing
+
+---
+
+<p align="center"><i>"Ship fast. Learn faster. Keep building."</i></p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:5C4033,50:1E3A5F,100:064E3B&height=140&section=footer&text=&fontSize=0&fontColor=ECFDF5&fontAlignY=70" />
 </p>
